@@ -67,8 +67,8 @@ vim                                                    # terminal text editor
 code                                                   # ide text editor
 
 # --------------------------------------------------- // Shell
-eza|zsh                                                # file lister for zsh
-eza|fish                                               # file lister for fish
+eza
+eza
 starship|fish                                          # customizable shell prompt
 fastfetch                                              # system information fetch tool
 
